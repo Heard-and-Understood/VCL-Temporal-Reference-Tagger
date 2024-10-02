@@ -70,7 +70,7 @@ Pull Requests are accepted, please review the [the contributing file](CONTRIBUTI
 
 ## License
 
-[MIT licensee](../LICENSE)
+[MIT license](../LICENSE)
 
 ## Citation
 
